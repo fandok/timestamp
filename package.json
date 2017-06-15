@@ -1,0 +1,22 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "URL Shortening Service by fandok",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fandok/urlshortener.git"
+  },
+  "author": "Fandika Okdiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fandok/urlshortener/issues"
+  },
+  "homepage": "https://github.com/fandok/urlshortener#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
